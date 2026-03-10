@@ -1,0 +1,39 @@
+#### **CASO DE USO - LANCHONETE DO SEU ZÉ**
+
+
+
+###### **Atores**
+
+Operadora de Caixa / Atendente
+
+Cozinheiro chef / chapeiro
+
+Gerente / Seu Zé
+
+
+
+###### **Casos de Uso - Operadora de caixa / atendente**
+
+* Atender a pedidos de clientes
+* Atualizar o status do pedido
+* Avisar o cliente que o pedido está pronto
+* Finalizar o pagamento
+* Realizar fechamento de vendas
+* Gerar relatórios das vendas diárias, ou semanais, ou mensais
+
+
+
+###### **Casos de Uso - Cozinheiro chef / chapeiro**
+
+* Olhar o monitor
+* Atualizar o status do pedido
+
+
+
+###### **Casos de Uso - Gerente / seu Zé**
+
+* Monitorar o estoque
+* Analisar o fechamento de vendas 
+* Analisar relatórios de vendas
+* Monitorar dívidas de clientes vips ou antigos
+* Excluir pedido que já foi para cozinha
