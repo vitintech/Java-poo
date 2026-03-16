@@ -1,7 +1,6 @@
 package Prática;
 
 import java.util.Scanner;
-
 public class Leitura {
     public static void main(String[] args) {
 
@@ -15,5 +14,7 @@ public class Leitura {
 
         System.out.println(nome);
         System.out.println(idade);
+
+        leitura.close();
     }
 }
