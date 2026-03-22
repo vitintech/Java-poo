@@ -1,4 +1,4 @@
-package Prática;
+package Desafio_01;
 
 import java.util.Scanner;
 public class Leitura {

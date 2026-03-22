@@ -1,4 +1,4 @@
-package Prática;
+package Desafio_01;
 // Crie um programa que realize a média de duas notas decimais e exiba o resultado. OK
 
 // Declare uma variável do tipo double precoOriginal. Atribua um valor em reais a essa variável, 

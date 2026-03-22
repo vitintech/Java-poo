@@ -1,4 +1,4 @@
-package Prática;
+package Desafio_01;
 
 import java.util.Scanner;
 // Declare uma variável do tipo double e uma variável do tipo int. Faça o casting da variável double para int e imprima o resultado. OK
